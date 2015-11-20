@@ -1,2 +1,2 @@
-# nRF24L01-
+# nRF24L01+
 Interfacing Propeller with nRF24L01+
